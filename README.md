@@ -1,25 +1,35 @@
 # max-forkify
 This is my version of the forkify app - A recipe app using the forkify api!
 
-Installation
+### Installation
 
-Forkify requires Node.js to run its dependencies.
+Forkify requires [Node.js](https://nodejs.org/) to run its dependencies.
 
 Install the dependencies and devDependencies and start the server.
 
+```sh
 $ npm install
+```
 
-Scripts
+### Scripts
 
 Forkify utilizes Webpack to compile its files
-Run webpack in development mode:
 
+#### Run webpack in development mode:
+
+```sh
 $ npm run dev
+```
 
-Run webpack in production mode:
+#### Run webpack in production mode:
 
+```sh
 $ npm run build
+```
 
-Run webpack-dev-server:
+#### Run webpack-dev-server:
 
+```sh
+$ npm run watch
+```
 $ npm run watch
