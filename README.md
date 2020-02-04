@@ -1,5 +1,5 @@
 # max-forkify
-This is my version of the forkify app - A recipe app using the forkify api!
+This is my version of the forkify app from Jonas Schmedtmann's Javascript tutorial series.
 
 ### Installation
 
