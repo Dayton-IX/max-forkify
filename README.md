@@ -30,6 +30,6 @@ $ npm run build
 #### Run webpack-dev-server:
 
 ```sh
-$ npm run watch
+$ npm run server
 ```
-$ npm run watch
+$ npm run server
