@@ -7,8 +7,8 @@ import * as recipeView from './views/recipeView';
 import * as listView from './views/listView';
 import * as likesView from './views/likesView';
 import { elements, renderLoader, clearLoader } from './views/base';
-const port = process.env.PORT || 4000;
-app.listen(port);
+// const port = process.env.PORT || 4000;
+// app.listen(port);
 
 /** Global state of the app
  * - Search object
