@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
-    "server": "webpack-dev-server",
-    "start": "node index.js"
+    "start": "webpack-dev-server"
   },
   "author": "Max Dayton",
   "license": "ISC",

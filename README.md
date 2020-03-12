@@ -30,6 +30,6 @@ $ npm run build
 #### Run webpack-dev-server:
 
 ```sh
-$ npm run server
+$ npm start
 ```
-$ npm run server
+Project opens on http://localhost:8080 by default.
